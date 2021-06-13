@@ -1,0 +1,21 @@
+[
+    {
+        "name":"India",
+        "profile":{
+            "capton":"Dhoni",
+            "wisecapton":"Virat"
+        },
+        "players":[
+            {
+                "name":"jadeja",
+                "age":"34",
+                "type":""
+            },
+            {
+                "name":"jadeja",
+                "age":"34",
+                "type":""
+            }
+        ]
+    }
+]

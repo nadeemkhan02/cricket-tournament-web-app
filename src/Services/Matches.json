@@ -2,15 +2,136 @@
     "matches": [
         {
             "team1": "India",
-            "team2": "pakistan",
-            "tosswinner": "Indian",
+            "team2": "Pakistan",
+            "tosswinner": "India",
             "winner": "India",
-            "vanue": "virosha kotla",
+            "venue": "Kolkata",
             "date": "2nd jan 2021",
-            "looser": "pakistan",
-            "manofthematch": "Dhoni",
-            "manofthebowler": "shami"
+            "looser": "Pakistan",
+            "manofthematch": "MS Dhoni",
+            "bowlerofthematch": "Mohammad Shami"
+        },
+        {
+            "team1": "India",
+            "team2": "England",
+            "tosswinner": "England",
+            "winner": "India",
+            "venue": "Indore",
+            "date": "3nd jan 2021",
+            "looser": "England",
+            "manofthematch": "Virat Kholi",
+            "bowlerofthematch": "Kuldeep Yadav"
+        },
+        {
+            "team1": "India",
+            "team2": "Austrila",
+            "tosswinner": "India",
+            "winner": "Austrila",
+            "venue": "Mumbai",
+            "date": "4nd jan 2021",
+            "looser": "India",
+            "manofthematch": "David Warner",
+            "bowlerofthematch": "Pat Cummins"
+        },
+        {
+            "team1": "England",
+            "team2": "Pakistan",
+            "tosswinner": "Pakistan",
+            "winner": "England",
+            "venue": "Assam",
+            "date": "5nd jan 2021",
+            "looser": "Pakistan",
+            "manofthematch": "Jos Buttler",
+            "bowlerofthematch": "Mark Wood"
+        },
+        {
+            "team1": "England",
+            "team2": "Austrila",
+            "tosswinner": "England",
+            "winner": "England",
+            "venue": "Hydrabad",
+            "date": "6nd jan 2021",
+            "looser": "Austrila",
+            "manofthematch": "Jos Buttler",
+            "bowlerofthematch": "Mark Wood"
+        },
+        {
+            "team1": "Pakistan",
+            "team2": "Austrila",
+            "tosswinner": "Pakistan",
+            "winner": "Pakistan",
+            "venue": "Delhi",
+            "date": "7nd jan 2021",
+            "looser": "Austrila",
+            "manofthematch": "Babar Azam",
+            "bowlerofthematch": "Usman Qadir"
+        },
+        {
+            "team1": "India",
+            "team2": "Pakistan",
+            "tosswinner": "India",
+            "winner": "India",
+            "venue": "Kolkata",
+            "date": "8nd jan 2021",
+            "looser": "Pakistan",
+            "manofthematch": "MS Dhoni",
+            "bowlerofthematch": "Mohammad Shami"
+        },
+        {
+            "team1": "India",
+            "team2": "England",
+            "tosswinner": "England",
+            "winner": "India",
+            "venue": "Indore",
+            "date": "9nd jan 2021",
+            "looser": "England",
+            "manofthematch": "Virat Kholi",
+            "bowlerofthematch": "Kuldeep Yadav"
+        },
+        {
+            "team1": "India",
+            "team2": "Austrila",
+            "tosswinner": "India",
+            "winner": "India",
+            "venue": "Mumbai",
+            "date": "10nd jan 2021",
+            "looser": "Austrila",
+            "manofthematch": "Virat Kholi",
+            "bowlerofthematch": "Kuldeep Yadav"
+        },
+        {
+            "team1": "England",
+            "team2": "Pakistan",
+            "tosswinner": "Pakistan",
+            "winner": "Pakistan",
+            "venue": "Assam",
+            "date": "5nd jan 2021",
+            "looser": "England",
+            "manofthematch": "Babar Azam",
+            "bowlerofthematch": "Usman Qadir"
+        },
+        {
+            "team1": "England",
+            "team2": "Austrila",
+            "tosswinner": "England",
+            "winner": "Austrila",
+            "venue": "Hydrabad",
+            "date": "6nd jan 2021",
+            "looser": "England",
+            "manofthematch": "David Warner",
+            "bowlerofthematch": "Pat Cummins"
+        },
+        {
+            "team1": "Pakistan",
+            "team2": "Austrila",
+            "tosswinner": "Pakistan",
+            "winner": "Austrila",
+            "venue": "Delhi",
+            "date": "7nd jan 2021",
+            "looser": "Pakistan",
+            "manofthematch": "David Warner",
+            "bowlerofthematch": "Pat Cummins"
         }
     ],
-    "winner":"India"
+    "Winner":"India"
 }

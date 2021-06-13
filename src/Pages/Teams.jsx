@@ -1,13 +1,18 @@
 import { React, useState } from "react";
 import "./teams.css";
+import Head from "../Components/Head"
 import { teamData } from "../Services/Teams";
 import { NavLink } from "react-router-dom";
 import player from "../Statics/cricket-player.png"
+import bat from "../Statics/cricket-bat.png";
+import ball from "../Statics/cricket.png";
+import allrouneder from "../Statics/cricket-all.png";
 
 const Teams = () => {
     const [country, setCountry] = useState("")
     return (
         <>
+            <Head title="All Teams" />
             <div className="card-container">
                 {
                     teamData.map((val) => (
@@ -45,7 +50,7 @@ const Teams = () => {
                                         <div className="player-data">
                                             <h6>Name: {val.name}</h6>
                                             <h6>Age: {val.age}</h6>
-                                            <h6>{val.type}</h6>
+                                            <h6>{val.type}&nbsp;<img style={{width:"20px"}} src={val.type === "batsman" ? bat : val.type === "bowler" ? ball : allrouneder } alt="type" /></h6>
                                         </div>
                                     </div>
                                 ))
@@ -59,7 +64,7 @@ const Teams = () => {
                                         <div className="player-data">
                                             <h6>Name: {val.name}</h6>
                                             <h6>Age: {val.age}</h6>
-                                            <h6>{val.type}</h6>
+                                            <h6>{val.type}&nbsp;<img style={{width:"20px"}} src={val.type === "batsman" ? bat : val.type === "bowler" ? ball : allrouneder } alt="type" /></h6>
                                         </div>
                                     </div>
                                 ))
@@ -73,7 +78,7 @@ const Teams = () => {
                                         <div className="player-data">
                                             <h6>Name: {val.name}</h6>
                                             <h6>Age: {val.age}</h6>
-                                            <h6>{val.type}</h6>
+                                            <h6>{val.type}&nbsp;<img style={{width:"20px"}} src={val.type === "batsman" ? bat : val.type === "bowler" ? ball : allrouneder } alt="type" /></h6>
                                         </div>
                                     </div>
                                 ))
@@ -87,7 +92,7 @@ const Teams = () => {
                                         <div className="player-data">
                                             <h6>Name: {val.name}</h6>
                                             <h6>Age: {val.age}</h6>
-                                            <h6>{val.type}</h6>
+                                            <h6>{val.type}&nbsp;<img style={{width:"20px"}} src={val.type === "batsman" ? bat : val.type === "bowler" ? ball : allrouneder } alt="type" /></h6>
                                         </div>
                                     </div>
                                 ))

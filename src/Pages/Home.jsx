@@ -8,7 +8,7 @@ const Home = (props) => {
             <div className="card-container">
                 <div class="card">
                     <div>
-                        <img style={{ width: "200px" }} class="card-img" src="https://www.graphicnews.com/media/GN/39007/T/jpg/EN" alt="Suresh Dasari Card" />
+                        <img style={{ width: "170px" }} class="card-img" src="https://www.graphicnews.com/media/GN/39007/T/jpg/EN" alt="Suresh Dasari Card" />
                     </div>
                     <div className="card-body" style={{width:"65%",margin:"auto"}}>
                         <h5 class="card-title">Countries/Teams</h5>
@@ -21,10 +21,10 @@ const Home = (props) => {
                     <div className="card-body" style={{width:"65%",margin:"auto"}}>
                         <h5 class="card-title">Players</h5>
                         <p class="card-text">Suresh Dasari is a founder and technical lead developer in tutlane.</p>
-                        <button type="button" class="btn btn-primary"><NavLink style={{textDecoration:"none", color:"#ffffff"}} activeClassName="Current" exact to="/players">View Players</NavLink></button>
+                        <button type="button" class="btn btn-primary"><NavLink style={{textDecoration:"none", color:"#ffffff"}} activeClassName="Current" exact to="/teams">View Players</NavLink></button>
                     </div>
                     <div>
-                        <img style={{ width: "250px" }} class="card-img" src="https://voiceofindiansports.com/wp-content/uploads/2020/01/image_search_1579179435941.jpg" alt="Suresh Dasari Card" />
+                        <img style={{ width: "240px" }} class="card-img" src="https://voiceofindiansports.com/wp-content/uploads/2020/01/image_search_1579179435941.jpg" alt="Suresh Dasari Card" />
                     </div>
                 </div>
 

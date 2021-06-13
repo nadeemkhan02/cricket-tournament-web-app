@@ -21,7 +21,8 @@
 .card:hover {
     box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
 }
-.card-body{
+
+.card-body {
     text-align: center;
 }
 
@@ -46,11 +47,13 @@
     .card-container {
         width: 95%;
     }
+
     .card-body {
         line-height: 17px;
         padding    : 5px;
         text-align : center;
     }
+
     .card-body h5 {
         font-size    : 17px;
         margin-bottom: 2px;

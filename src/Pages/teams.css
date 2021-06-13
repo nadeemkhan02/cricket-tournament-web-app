@@ -1,0 +1,61 @@
+.team-card{
+    align-items:center;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow     : 0 5px 10px rgba(154, 160, 185, .05), 0 15px 40px rgba(166, 173, 201, .2);
+}
+
+.team-card .card-body p{
+    text-align:left;
+}
+.cardfooter h5{
+    font-size: 16px;
+}
+.cardfooter{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    text-align: left;
+}
+
+/* playerdata */
+.player-Card{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    box-shadow     : 0 5px 10px rgba(154, 160, 185, .05), 0 15px 40px rgba(166, 173, 201, .2);
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.player-image{
+    width:40%;
+    text-align:center;
+}
+.player-data{
+    width:60%;
+}
+.player-image img{
+    width:50px;
+}
+.modal-body{
+    height: 600px;
+    overflow: auto;
+}
+
+@media only screen and (max-width:500px) {
+    .cardfooter h5{
+        font-size: 14px;
+    }
+    .card-img1 {
+        width: 25px !important;
+    }
+    #player-btn{
+        width: 100%;
+        margin-top: 10px;
+    }
+}
+

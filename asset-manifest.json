@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cricket-tournament-web-app/static/css/main.d6ac75b9.chunk.css",
+    "main.css": "/cricket-tournament-web-app/static/css/main.48c6e6e5.chunk.css",
     "main.js": "/cricket-tournament-web-app/static/js/main.4c845898.chunk.js",
     "main.js.map": "/cricket-tournament-web-app/static/js/main.4c845898.chunk.js.map",
     "runtime-main.js": "/cricket-tournament-web-app/static/js/runtime-main.e04347cf.js",
@@ -10,7 +10,7 @@
     "static/js/2.62afa826.chunk.js.map": "/cricket-tournament-web-app/static/js/2.62afa826.chunk.js.map",
     "index.html": "/cricket-tournament-web-app/index.html",
     "static/css/2.c9d92586.chunk.css.map": "/cricket-tournament-web-app/static/css/2.c9d92586.chunk.css.map",
-    "static/css/main.d6ac75b9.chunk.css.map": "/cricket-tournament-web-app/static/css/main.d6ac75b9.chunk.css.map",
+    "static/css/main.48c6e6e5.chunk.css.map": "/cricket-tournament-web-app/static/css/main.48c6e6e5.chunk.css.map",
     "static/js/2.62afa826.chunk.js.LICENSE.txt": "/cricket-tournament-web-app/static/js/2.62afa826.chunk.js.LICENSE.txt",
     "static/media/australia.262fdf96.png": "/cricket-tournament-web-app/static/media/australia.262fdf96.png",
     "static/media/cricket-player.aa9b475e.png": "/cricket-tournament-web-app/static/media/cricket-player.aa9b475e.png",
@@ -21,7 +21,7 @@
     "static/js/runtime-main.e04347cf.js",
     "static/css/2.c9d92586.chunk.css",
     "static/js/2.62afa826.chunk.js",
-    "static/css/main.d6ac75b9.chunk.css",
+    "static/css/main.48c6e6e5.chunk.css",
     "static/js/main.4c845898.chunk.js"
   ]
 }

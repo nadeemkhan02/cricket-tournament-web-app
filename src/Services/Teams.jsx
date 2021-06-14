@@ -6,6 +6,8 @@ export const teamData = [
     {
         "name": "India",
         "flag": India,
+        "play":"6",
+        "win":"5",
         "profile": {
             "capton": " MS Dhoni",
             "wisecapton": "Virat Kolhi",
@@ -52,6 +54,8 @@ export const teamData = [
     {
         "name": "Pakistan",
         "flag": Pakistan,
+        "play":"6",
+        "win":"2",
         "profile": {
             "capton": "Babar Azam",
             "wisecapton": "Sarfaraz Ahmed",
@@ -98,6 +102,8 @@ export const teamData = [
     {
         "name": "England",
         "flag": England,
+        "play":"6",
+        "win":"2",
         "profile": {
             "capton": "Eoin Morgan",
             "wisecapton": "Jos buttler",
@@ -144,6 +150,8 @@ export const teamData = [
     {
         "name": "Austrila",
         "flag": Austrila,
+        "play":"6",
+        "win":"3",
         "profile": {
             "capton": "Aaron Finch",
             "wisecapton": "Pat Cummins",

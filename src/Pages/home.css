@@ -82,4 +82,7 @@
     .card-img {
         width: 110px !important;
     }
+    #top-image{
+        width:80px;
+    }
 }

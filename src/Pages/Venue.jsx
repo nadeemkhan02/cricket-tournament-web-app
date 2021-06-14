@@ -4,7 +4,7 @@ import Top from "../Statics/top.png";
 import Head from "../Components/Head"
 const Vanue = () => {
     const matchesData = require('../Services/Matches.json')
-    const[scroll, setScroll] = useState(true)
+    const[scroll, setScroll] = useState(false)
     useEffect(() =>{
         document.addEventListener("scroll", function(e) {
             toggleVisibility();

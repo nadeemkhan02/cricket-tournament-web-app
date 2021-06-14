@@ -52,6 +52,54 @@ export const teamData = [
         ]
     },
     {
+        "name": "Austrila",
+        "flag": Austrila,
+        "play":"6",
+        "win":"3",
+        "profile": {
+            "capton": "Aaron Finch",
+            "wisecapton": "Pat Cummins",
+            "profile": "The Australia men's national cricket team represents Australia in men's international cricket.Australia is the most successful team in Test cricket history, in terms of overall wins, win-loss ratio and wins percentage."
+        },
+        "players": [
+            {
+                "name": "Aaaron Finch",
+                "age": "32",
+                "type": "batsman"
+            },
+            {
+                "name": "David Warner",
+                "age": "32",
+                "type": "batsman"
+            },
+            {
+                "name": "Alex Carey",
+                "age": "27",
+                "type": "wicketkeeper batter"
+            },
+            {
+                "name": "Glenn Maxwell",
+                "age": "30",
+                "type": "allrounder"
+            },
+            {
+                "name": "Pat Cummins",
+                "age": "25",
+                "type": "bowler"
+            },
+            {
+                "name": "Mitchell Starc",
+                "age": "29",
+                "type": "bowler"
+            },
+            {
+                "name": "Adam Zampa",
+                "age": "27",
+                "type": "bowler"
+            }
+        ]
+    },
+    {
         "name": "Pakistan",
         "flag": Pakistan,
         "play":"6",
@@ -146,53 +194,6 @@ export const teamData = [
                 "type": "bowler"
             }
         ]
-    },
-    {
-        "name": "Austrila",
-        "flag": Austrila,
-        "play":"6",
-        "win":"3",
-        "profile": {
-            "capton": "Aaron Finch",
-            "wisecapton": "Pat Cummins",
-            "profile": "The Australia men's national cricket team represents Australia in men's international cricket.Australia is the most successful team in Test cricket history, in terms of overall wins, win-loss ratio and wins percentage."
-        },
-        "players": [
-            {
-                "name": "Aaaron Finch",
-                "age": "32",
-                "type": "batsman"
-            },
-            {
-                "name": "David Warner",
-                "age": "32",
-                "type": "batsman"
-            },
-            {
-                "name": "Alex Carey",
-                "age": "27",
-                "type": "wicketkeeper batter"
-            },
-            {
-                "name": "Glenn Maxwell",
-                "age": "30",
-                "type": "allrounder"
-            },
-            {
-                "name": "Pat Cummins",
-                "age": "25",
-                "type": "bowler"
-            },
-            {
-                "name": "Mitchell Starc",
-                "age": "29",
-                "type": "bowler"
-            },
-            {
-                "name": "Adam Zampa",
-                "age": "27",
-                "type": "bowler"
-            }
-        ]
     }
+    
 ]

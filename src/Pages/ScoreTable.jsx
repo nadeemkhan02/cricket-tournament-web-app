@@ -14,7 +14,7 @@ const ScoreTable = () => {
                 <table style={{textAlign:"center", marginTop:"20px"}} class="table table-dark">
                     <thead>
                         <tr className="scoreData">
-                            <th scope="col">No:</th>
+                            <th scope="col">Rank:</th>
                             <th scope="col">Team:</th>
                             <th scope="col">Play:</th>
                             <th scope="col">Win:</th>

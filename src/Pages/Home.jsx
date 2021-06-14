@@ -1,6 +1,7 @@
 import React from "react";
 import "./home.css";
 import { NavLink } from "react-router-dom";
+import TeamImag from "../Statics/EN.jpg";
 
 const Home = (props) => {
     const matchData = require('../Services/Matches.json');
@@ -10,11 +11,11 @@ const Home = (props) => {
             <div className="card-container">
                 <div class="card">
                     <div>
-                        <img id="top-image" style={{ width: "170px" }} class="card-img" src="https://www.graphicnews.com/media/GN/39007/T/jpg/EN" alt="Suresh Dasari Card" />
+                        <img id="top-image" style={{ width: "170px" }} class="card-img" src={TeamImag} alt="Team Imag" />
                     </div>
                     <div className="card-body" style={{ width: "65%", margin: "auto" }}>
                         <h5 class="card-title">Countries/Teams</h5>
-                        <p class="card-text">Suresh Dasari is a founder and technical lead developer in tutlane.</p>
+                        <p class="card-text">This section contains list of all the teams and there profile. For more information click below button..</p>
                         <button type="button" class="btn btn-primary"><NavLink style={{ textDecoration: "none", color: "#ffffff" }} activeClassName="Current" exact to="/teams">View Teams</NavLink></button>
                     </div>
                 </div>
@@ -22,7 +23,7 @@ const Home = (props) => {
                 <div class="card">
                     <div className="card-body" style={{ width: "65%", margin: "auto" }}>
                         <h5 class="card-title">Players</h5>
-                        <p class="card-text">Suresh Dasari is a founder and technical lead developer in tutlane.</p>
+                        <p class="card-text">This section contain list of all the players with there respective team. For more details click below button</p>
                         <button type="button" class="btn btn-primary"><NavLink style={{ textDecoration: "none", color: "#ffffff" }} activeClassName="Current" exact to="/teams">View Players</NavLink></button>
                     </div>
                     <div>
@@ -36,7 +37,7 @@ const Home = (props) => {
                     </div>
                     <div className="card-body" style={{ width: "65%", margin: "auto" }}>
                         <h5 class="card-title">Venue</h5>
-                        <p class="card-text">Suresh Dasari is a founder and technical lead developer in tutlane.</p>
+                        <p class="card-text">This section contain venue details of all the matches. For more information click below button.</p>
                         <button type="button" class="btn btn-primary"><NavLink style={{ textDecoration: "none", color: "#ffffff" }} activeClassName="Current" exact to="/vanue">View Venue</NavLink></button>
                     </div>
                 </div>
@@ -44,7 +45,7 @@ const Home = (props) => {
                 <div class="card">
                     <div className="card-body" style={{ width: "65%", margin: "auto" }}>
                         <h5 class="card-title">Matches</h5>
-                        <p class="card-text">Suresh Dasari is a founder and technical lead developer in tutlane.</p>
+                        <p class="card-text">This section contain all the details about matches. For more details click below button.</p>
                         <button type="button" class="btn btn-primary"><NavLink style={{ textDecoration: "none", color: "#ffffff" }} activeClassName="Current" exact to="/matches">View Matches</NavLink></button>
                     </div>
                     <div>
@@ -58,7 +59,7 @@ const Home = (props) => {
                     </div>
                     <div className="card-body" style={{ width: "65%", margin: "auto" }}>
                         <h5 class="card-title">Tournament Score Table</h5>
-                        <p class="card-text">Suresh Dasari is a founder and technical lead developer in tutlane.</p>
+                        <p class="card-text">For tournament result click below button.</p>
                         <button type="button" class="btn btn-primary"><NavLink style={{ textDecoration: "none", color: "#ffffff" }} activeClassName="Current" exact to="/scoretable">View Score Table</NavLink></button>
                     </div>
                 </div>

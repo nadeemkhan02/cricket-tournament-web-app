@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/cricket-tournament-web-app/static/css/main.e024575e.chunk.css",
-    "main.js": "/cricket-tournament-web-app/static/js/main.bc2f0824.chunk.js",
-    "main.js.map": "/cricket-tournament-web-app/static/js/main.bc2f0824.chunk.js.map",
+    "main.css": "/cricket-tournament-web-app/static/css/main.df785b5d.chunk.css",
+    "main.js": "/cricket-tournament-web-app/static/js/main.0d5d5daf.chunk.js",
+    "main.js.map": "/cricket-tournament-web-app/static/js/main.0d5d5daf.chunk.js.map",
     "runtime-main.js": "/cricket-tournament-web-app/static/js/runtime-main.e04347cf.js",
     "runtime-main.js.map": "/cricket-tournament-web-app/static/js/runtime-main.e04347cf.js.map",
     "static/css/2.c9d92586.chunk.css": "/cricket-tournament-web-app/static/css/2.c9d92586.chunk.css",
-    "static/js/2.7da85e42.chunk.js": "/cricket-tournament-web-app/static/js/2.7da85e42.chunk.js",
-    "static/js/2.7da85e42.chunk.js.map": "/cricket-tournament-web-app/static/js/2.7da85e42.chunk.js.map",
+    "static/js/2.210d61fa.chunk.js": "/cricket-tournament-web-app/static/js/2.210d61fa.chunk.js",
+    "static/js/2.210d61fa.chunk.js.map": "/cricket-tournament-web-app/static/js/2.210d61fa.chunk.js.map",
     "index.html": "/cricket-tournament-web-app/index.html",
     "static/css/2.c9d92586.chunk.css.map": "/cricket-tournament-web-app/static/css/2.c9d92586.chunk.css.map",
-    "static/css/main.e024575e.chunk.css.map": "/cricket-tournament-web-app/static/css/main.e024575e.chunk.css.map",
-    "static/js/2.7da85e42.chunk.js.LICENSE.txt": "/cricket-tournament-web-app/static/js/2.7da85e42.chunk.js.LICENSE.txt",
+    "static/css/main.df785b5d.chunk.css.map": "/cricket-tournament-web-app/static/css/main.df785b5d.chunk.css.map",
+    "static/js/2.210d61fa.chunk.js.LICENSE.txt": "/cricket-tournament-web-app/static/js/2.210d61fa.chunk.js.LICENSE.txt",
     "static/media/australia.262fdf96.png": "/cricket-tournament-web-app/static/media/australia.262fdf96.png",
     "static/media/cricket-all.8ba4f0eb.png": "/cricket-tournament-web-app/static/media/cricket-all.8ba4f0eb.png",
     "static/media/cricket-bat.3a40ff37.png": "/cricket-tournament-web-app/static/media/cricket-bat.3a40ff37.png",
@@ -19,13 +19,14 @@
     "static/media/cricket.1cb9f702.png": "/cricket-tournament-web-app/static/media/cricket.1cb9f702.png",
     "static/media/india.be08e68d.png": "/cricket-tournament-web-app/static/media/india.be08e68d.png",
     "static/media/pakistan.e5aabd30.png": "/cricket-tournament-web-app/static/media/pakistan.e5aabd30.png",
-    "static/media/top.d3d9faa1.png": "/cricket-tournament-web-app/static/media/top.d3d9faa1.png"
+    "static/media/top.d3d9faa1.png": "/cricket-tournament-web-app/static/media/top.d3d9faa1.png",
+    "static/media/trophy.4a85946c.png": "/cricket-tournament-web-app/static/media/trophy.4a85946c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e04347cf.js",
     "static/css/2.c9d92586.chunk.css",
-    "static/js/2.7da85e42.chunk.js",
-    "static/css/main.e024575e.chunk.css",
-    "static/js/main.bc2f0824.chunk.js"
+    "static/js/2.210d61fa.chunk.js",
+    "static/css/main.df785b5d.chunk.css",
+    "static/js/main.0d5d5daf.chunk.js"
   ]
 }
